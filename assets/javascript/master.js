@@ -12,6 +12,7 @@
  const body = document.querySelector('.bodyOrg');
  const pos = document.querySelector('.center .img2');
  const fruitImages = document.querySelectorAll('.fruit-images');
+ const footer = document.querySelector('.footer');
 
 
  let flag = 0;
